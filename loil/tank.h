@@ -8,6 +8,13 @@ struct Point
  int x;
  int y;
 };
+class Bullet
+{
+string m_material;
+public:
+Bullet(): m_material("wooden"){}
+};
+
 
 class Tank
 {
