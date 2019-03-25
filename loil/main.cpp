@@ -9,11 +9,16 @@ using namespace std;
 int main()
 {
     Game game;
+    cout<<"branch"<<endl;
     game.start();
 
     return 0;
 
+<<<<<<< HEAD
 //branch has been detec
+=======
+//kek lol
+>>>>>>> Octane
 
     /*
     Tank tank1;
