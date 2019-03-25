@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
     Game game;
+    cout<<"branch"<<endl;
     game.start();
 
     return 0;
